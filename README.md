@@ -42,21 +42,12 @@ Or Support me on Patreon
 Olayemi Garuba [![Twitter Follow](https://img.shields.io/twitter/follow/iam_olayemii.svg?style=social)](https://twitter.com/iam_olayemii)
 
 
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/v1613589180/assets/web1_y9yrmi.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/v1613589179/assets/web2_zn7w5n.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/v1613589176/assets/web3_mmq07i.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/v1613589176/assets/web4_ewgepc.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/v1613589180/assets/web5_pqw6x2.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/v1613589190/assets/web6_bdngkk.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/v1613589174/assets/web7_yhg33u.png)
 
+firebaserc
+{
+  "projects": {
+    "default": "cheikh-330aa"
+  }
+}
 
-#### Mobile Screens
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/c_scale,w_250/v1613589167/assets/phone1_ptibcj.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/c_scale,w_250/v1613589168/assets/phone2_sm6lmt.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/c_scale,w_250/v1613589170/assets/phone3_ec7iwb.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/c_scale,w_250/v1613589169/assets/phone4_xwldjr.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/c_scale,w_250/v1613589172/assets/phone5_qb51tt.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/c_scale,w_250/v1613589169/assets/phone6_x8ynjy.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/c_scale,w_250/v1613589172/assets/phone7_szij23.png)
 
